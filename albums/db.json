@@ -2,29 +2,86 @@
     "albums": [
         {
             "id": 1,
-            "name": "Album 1",
-            "thumbnail": "https://www.placecage.com/c/200/300",
+            "name": "We Bare Bears",
+            "thumbnail": "https://placebear.com/640/360",
             "photos": [
                 {
-                    "name": "photo 1",
-                    "thumbnail": "https://www.placecage.com/c/200/300"
+                    "name": "Bear 1",
+                    "thumbnail": "https://placebear.com/640/360"
                 },
                 {
-                    "name": "photo 2",
-                    "thumbnail": "https://www.placecage.com/c/200/300"
+                    "name": "Bear 2",
+                    "thumbnail": "https://placebear.com/640/360"
+                },
+                {
+                  "name": "Bear 3",
+                  "thumbnail": "https://placebear.com/640/360"
+                },
+                {
+                  "name": "Bear 4",
+                  "thumbnail": "https://placebear.com/640/360"
+                },
+                {
+                  "name": "Bear 5",
+                  "thumbnail": "https://placebear.com/640/360"
+                },
+                {
+                "name": "Bear 6",
+                "thumbnail": "https://placebear.com/640/360"
                 }
             ]
         },
-        {
-            "id": 2,
-            "name": "Album 2",
-            "thumbnail": "https://www.placecage.com/c/200/300",
+        {   "id": 2,
+            "name": "We Doge Dogs",
+            "thumbnail": "https://placebear.com/640/360",
             "photos": [
-                {
-                    "name": "photo other thing...",
-                    "thumbnail": "https://www.placecage.com/c/200/300"
-                }
+            {
+                  "name": "Dog 3",
+                  "thumbnail": "https://picsum.photos/id/237/200/300"
+            },
+            {
+                  "name": "Dog 4",
+                  "thumbnail": "https://picsum.photos/id/237/200/300"
+            },
+            {
+                "name": "Dog 5",
+                "thumbnail": "https://picsum.photos/id/237/200/300"
+            },
+            {
+                "name": "Dog 6",
+                "thumbnail": "https://picsum.photos/id/237/200/300"
+            }
             ]
+        },
+        {   "id": 1,
+            "name": "We Cloud Clouds",
+            "thumbnail": "https://picsum.photos/seed/picsum/200/300",
+            "photos": [
+            {
+                        "name": "Cloud 1",
+                        "thumbnail": "https://picsum.photos/seed/picsum/200/300"
+            },
+            {
+                        "name": "Cloud 2",
+                        "thumbnail": "https://picsum.photos/seed/picsum/200/300"
+            },
+            {
+                      "name": "Cloud 3",
+                      "thumbnail": "https://picsum.photos/seed/picsum/200/300"
+            },
+            {
+                      "name": "Cloud 4",
+                      "thumbnail": "https://picsum.photos/seed/picsum/200/300"
+            },
+            {
+                      "name": "Cloud 5",
+                      "thumbnail": "https://picsum.photos/seed/picsum/200/300"
+            },
+            {
+                    "name": "Cloud 6",
+                    "thumbnail": "https://picsum.photos/seed/picsum/200/300"
+            }
+                ]
         }
     ]
-}
+  
